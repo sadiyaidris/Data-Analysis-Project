@@ -184,7 +184,7 @@ Some questions were raised and these questions were answered with the aid of cha
             Used a bar plot to generate visualization for the "City" on x-axis with "total", "Quantity" and "gross income" on the y-axis, then setting hue as "Month".
 
         Insights
-            - In the month of January, Abuja had its highest total price of goods purchased by the customers, leading to Branch A having a higher increase in gross income compared to other months.
+            - In the month of January, Abuja had its highest total price of goods purchased by the customers, leading to Abuja having a higher increase in gross income compared to other months.
             - In the month of January, Lagos had its highest total price of goods purchased by the customers, leading a higher increase in gross income compared to other months.
             - In the month of March, Port Harcourt had its largest quantities of products purchased and the highest total price of goods purchased by the customers, leading to a higher increase in gross income compared to other months.
 
